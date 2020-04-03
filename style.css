@@ -1,0 +1,23 @@
+.wertilebi{
+    border-style: dashed;
+    border-color: green;
+}
+
+.trapecia {
+    border-bottom: 100px solid green;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height:0;
+    width:1300px;
+
+}
+.trapecia2 { 
+    border-bottom: 100px solid blue;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height:0;
+    width:1300px;
+    transform: rotate(180deg);
+
+
+}

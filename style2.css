@@ -1,0 +1,11 @@
+.table{
+    width: 800px;
+    height: 600px;
+    border: solid 10px black;
+    margin: auto;
+    border-radius: 30px;
+    border-collapse: collapse
+}
+.table, th, td {
+    border: 1px solid black;
+}
